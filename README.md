@@ -13,10 +13,15 @@
 
 
 I'm a second year student pursuing Btech Computer science with specialization in ML and AI. Been into Data Science for quite some time now and am really intrigued by the thought of wonders that AI can do.
-
+<br/>
 
 
 
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shravani-0&theme=highcontrast)](https://git.io/streak-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shravani-0)](https://github.com/Shravani-0/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shravani-0&theme=highcontrast)](https://github.com/Shravani-0/github-readme-stats)
