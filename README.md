@@ -12,7 +12,7 @@
 ![banner](https://user-images.githubusercontent.com/89658242/231364806-5667b20e-c12c-415d-a594-71e72ff253d2.png)
 
 
-I'm a second year student pursuing Btech Computer science with specialization in ML and AI. Been into Data Sience for quite some time now and really intrigues by the thought of wonders that AI can do.
+I'm a second year student pursuing Btech Computer science with specialization in ML and AI. Been into Data Science for quite some time now and am really intrigued by the thought of wonders that AI can do.
 
 
 
